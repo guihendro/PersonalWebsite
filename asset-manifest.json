@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.df5f8f62.css",
+    "main.js": "/PersonalWebsite/static/js/main.e61f7a1b.js",
+    "static/js/787.fb771931.chunk.js": "/PersonalWebsite/static/js/787.fb771931.chunk.js",
+    "static/media/ProfilePicture.png": "/PersonalWebsite/static/media/ProfilePicture.a0f21feb18d3592d76f7.png",
+    "static/media/DeepPurple.png": "/PersonalWebsite/static/media/DeepPurple.2eb70acfb9dd4feeaffa.png",
+    "static/media/Caros-Medium.otf": "/PersonalWebsite/static/media/Caros-Medium.5aa7b946346b6af114a7.otf",
+    "static/media/Caros-ExtraBold.otf": "/PersonalWebsite/static/media/Caros-ExtraBold.327b59c41a470ddbeffd.otf",
+    "static/media/Caros-Light.otf": "/PersonalWebsite/static/media/Caros-Light.9e604d201999faf711ec.otf",
+    "static/media/Caros.otf": "/PersonalWebsite/static/media/Caros.1c917b0bcc9d77ce93a6.otf",
+    "static/media/Caros-Bold.otf": "/PersonalWebsite/static/media/Caros-Bold.43e10c3e16b22d23cde8.otf",
+    "static/media/PersonalPortfolio.png": "/PersonalWebsite/static/media/PersonalPortfolio.a8aa10e546a5d3e0a6d2.png",
+    "static/media/Capstone.png": "/PersonalWebsite/static/media/Capstone.44d00b270bf14b4e9507.png",
+    "static/media/Github.svg": "/PersonalWebsite/static/media/Github.151bfc47aeefcead72e57ff8fe894d61.svg",
+    "static/media/Linkedin.svg": "/PersonalWebsite/static/media/Linkedin.9ce40d74a5827b7703ff9369fcaf8166.svg",
+    "static/media/DataAnalysis.svg": "/PersonalWebsite/static/media/DataAnalysis.e558194163d7e02a0ad6021b18435b3c.svg",
+    "static/media/Phone.svg": "/PersonalWebsite/static/media/Phone.29df36611244e720bc903aa2c796ab3c.svg",
+    "static/media/Website.svg": "/PersonalWebsite/static/media/Website.9c5a0da6f047d44f9e000eff57b8a520.svg",
+    "static/media/Plane.svg": "/PersonalWebsite/static/media/Plane.4049fe320c6b108f3bb2ad935f9a09b2.svg",
+    "index.html": "/PersonalWebsite/index.html",
+    "static/media/Timeline.svg": "/PersonalWebsite/static/media/Timeline.2b883d44384423e7d0488ad122827402.svg",
+    "static/media/Software.svg": "/PersonalWebsite/static/media/Software.d01d921c082d1b0e9147178fdf243d3a.svg",
+    "static/media/Timeline1.svg": "/PersonalWebsite/static/media/Timeline1.abb57ad72783bbac8c0ae757cb22c5b1.svg",
+    "static/media/Timeline2.svg": "/PersonalWebsite/static/media/Timeline2.649dc9a9609ebf4294d458b9e0fc12c4.svg",
+    "static/media/Email.svg": "/PersonalWebsite/static/media/Email.ddbf7441020db397fdcf5fb83b2e8da3.svg",
+    "static/media/ArrowTopRight.svg": "/PersonalWebsite/static/media/ArrowTopRight.bb8860551afd430094eb0ac8989f5e50.svg",
+    "main.df5f8f62.css.map": "/PersonalWebsite/static/css/main.df5f8f62.css.map",
+    "main.e61f7a1b.js.map": "/PersonalWebsite/static/js/main.e61f7a1b.js.map",
+    "787.fb771931.chunk.js.map": "/PersonalWebsite/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df5f8f62.css",
+    "static/js/main.e61f7a1b.js"
+  ]
+}
