@@ -12,8 +12,8 @@ function Home() {
                         <a href="/">
                             <p className="font-bold text-3xl">gh</p>
                         </a>
-                        <div>
-                            <a href="#about" className="md:mr-12 mr-4 hover:text-[#3B68FF]">About</a>
+                        <div className="text-[#424242]">
+                            <a href="#about" className="md:mr-12 mr-4 ml-4 hover:text-[#3B68FF]">About</a>
                             <a href="#education" className="md:mr-12 mr-4 hover:text-[#3B68FF]">Education</a>
                             <a href="#projects" className="md:mr-12 mr-4 hover:text-[#3B68FF]">Projects</a>
                             <a href="#footer" className="hover:text-[#3B68FF]">Contact</a>
@@ -27,7 +27,7 @@ function Home() {
                                 <p className="text-[#424242]">Hi! I am</p>
                                 <p className="text-[#FF3535]">Gui Hendro</p>
                             </div>
-                            <a href="#" className="mt-4 border rounded rounded-xl bg-[#424242] text-xl text-white md:px-6 md:py-4 px-4 py-2 inline-flex items-center hover:bg-[#343434]">
+                            <a href="https://drive.google.com/file/d/1jEByzvbsb1dwfPknbjDLw3WKJbbupGTN/view?usp=sharing" className="mt-4 border rounded rounded-xl bg-[#424242] text-xl text-white md:px-6 md:py-4 px-4 py-2 inline-flex items-center hover:bg-[#343434]">
                                 <p className="mr-2">View my resume</p>
                                 <img src={Plane}></img>
                             </a>
@@ -102,8 +102,8 @@ function Home() {
                 </div>
 
                 {/* Education section */}
-                <div id="education" className="h-screen bg-[#FEF4DE] md:px-28 px-8">
-                    <p className="flex justify-center font-bold text-5xl text-[#424242] md:py-16 py-8">My Academic Journey</p>
+                <div id="education" className="md:h-screen h-full bg-[#FEF4DE] md:px-28 px-8 md:py-16 py-8">
+                    <p className="flex justify-center font-bold text-5xl text-[#424242] mb-8">My Academic Journey</p>
                     <div className="md:grid md:grid-cols-8">
                         <div className="col-span-3 text-xl">
                             <p className="font-bold">Diploma in Information Technology</p>
@@ -171,7 +171,7 @@ function Home() {
                             <div className="">
                                 <div className="flex items-center justify-between px-4">
                                     <p className="font-medium text-2xl text-[#424242] py-4">Personal Portfolio Website</p>
-                                    <a href="#" class="bg-[#3B68FF] rounded-full p-3.5 hover:bg-[#3260FD]">
+                                    <a href="https://guihendro.github.io/PersonalWebsite" class="bg-[#3B68FF] rounded-full p-3.5 hover:bg-[#3260FD]">
                                         <img src={ArrowTopRight}></img>
                                     </a>
                                 </div>
@@ -196,7 +196,7 @@ function Home() {
                             </div>
                         </div>
                         <div className="flex justify-center">
-                            <p className="md:text-4xl text-2xl ml-4 md:ml-0 font-bold">Let's connect together!</p>
+                            <p className="md:text-4xl text-lg ml-8 md:ml-0 font-bold">Let's connect together!</p>
                         </div>
                     </div>
                     <hr className="h-px mt-4 bg-[#424242] border-0"></hr>
