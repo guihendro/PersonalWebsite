@@ -5,9 +5,9 @@ import Home from './pages/Home';
 
 export default function AppRouter() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
-                <Route path="/" element={<Home />}>
+                <Route path="/PersonalWebsite" element={<Home />}>
                     <Route index element={<Home />} />
                 </Route>
             </Routes>
